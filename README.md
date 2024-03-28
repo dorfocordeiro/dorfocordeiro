@@ -5,7 +5,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/rogidocelta/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-scarpim-cordeiro-9b89392b7/)
 
-![Rodolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodolfoScarpimCordeiro&show_icons=true&theme=dracula)
+![Rodolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorfocordeiro&show_icons=true&theme=dracula)
 
 
 ## Tecnologies I'm learning
