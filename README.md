@@ -1,7 +1,7 @@
 ### Hello World🤙🏼, I'm Rodolfo Cordeiro, 18 years old
 ---
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/scarpim.rodolfo/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]"mailto:rodolfocordeiro123@gmai.com")
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]["mailto:rodolfocordeiro123@gmai.com"](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcRwPkjPXjBWRngVxTxqXWcKLFGCbGNTgccBqbGGZXzzxkfVtckSVwSlDXBsjwPnPmfwZkJfq))
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/rogidocelta/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-scarpim-cordeiro-9b89392b7/)
 
