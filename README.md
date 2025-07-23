@@ -1,8 +1,8 @@
 # Hello World🤙🏼, I'm Rodolfo Cordeiro, 19 years old
-<div>
-	## Studying Software Engineer in UNIFIO, Ourinhos, São Paulo
-	## Working at Gemmap Sistemas as Java Web Developer
-</div>
+---
+## Studying Software Engineer in UNIFIO, Ourinhos, São Paulo
+## Working at Gemmap Sistemas as Java Web Developer
+
 	
 ---
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/scarpim.rodolfo/)
