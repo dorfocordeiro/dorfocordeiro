@@ -31,4 +31,5 @@
 	<img src="https://img.shields.io/badge/PyCharm-339933?style=for-the-badge&logo=pycharm&logoColor=white">
 </div>
 
-### I'm studying Software Engineer in UNIFIO, Ourinhos, São Paulo
+### Studying Software Engineer in UNIFIO, Ourinhos, São Paulo
+### Working at Gemmap Sistemas as Java Web Developer
