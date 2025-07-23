@@ -29,6 +29,7 @@
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 	<img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge">
 	<img src="https://img.shields.io/badge/PyCharm-339933?style=for-the-badge&logo=pycharm&logoColor=white">
+	<img src="https://img.shields.io/badge/PyCharm-339933?style=for-the-badge&logo=pycharm&logoColor=white">
 </div>
 
 ### Studying Software Engineer in UNIFIO, Ourinhos, São Paulo
