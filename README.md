@@ -1,37 +1,95 @@
-# Hello World🤙🏼, I'm Rodolfo Cordeiro, 19 years old
----
-## Studying Software Engineer in UNIFIO, Ourinhos, São Paulo
-## Working at Gemmap Sistemas as Java Web Developer
+<h2 align="left">Hello World!🤙🏻<br><br>I'm Rodolfo Cordeiro, from Santa Cruz do Rio Pardo - São Paulo</h2>
 
-	
----
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/scarpim.rodolfo/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/2/#inbox?compose=DmwnWrRlRHtLdRDThGDXnJcNBCnNBJztjRBPSvrDWPDvdnspjQcpCwFVGLkTRWxggKcKLRGVnctL)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/rogidocelta/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfocordeiro/)
+###
 
-![Rodolfo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorfocordeiro&show_icons=true&theme=dracula)
-
-
-## Tecnologies and Frameworks
-
-<div>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-	<img src="https://img.shields.io/badge/css-gray?style=for-the-badge&logo=css&logoColor=white">
-    	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-	<br />
-	<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-	<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-	<img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white">
-	<img src="https://img.shields.io/badge/JPA-Hibernate-aca69f?style=for-the-badge&logo=Hibernate&logoColor=white">
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dorfocordeiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dorfocordeiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-## IDE's
-<div>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-	<img src="https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge">
-	<img src="https://img.shields.io/badge/PyCharm-339933?style=for-the-badge&logo=pycharm&logoColor=white">
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<h4 align="left">📚Studying Software Engineer in UNIFIO - Ourinhos SP<br><br>💻Working at Gemmap Sistemas as Junior Java Developer</h4>
+
+###
+
+<h2 align="left">Tecnologies and Frameworks</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Framework"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="Postgres"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"  />
 </div>
+
+###
+
+<h2 align="left">IDE's</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/eclipseide/2C2255" height="40" alt="Eclipse IDE"  />
+</div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/rodolfocordeiro/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="Linkedin"  />
+  </a>
+  <a href="https://discordapp.com/users/731668286093394000" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord"  />
+  </a>
+  <a href="https://www.instagram.com/scarpim.rodolfo?igsh=MW00aG9maG1xNWVscg== " target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSDbhKxHXsbBCDpJsdmrHpBJnBFwRjkfxJHcGgqMtKfWvcrtqgPMPcMDHFBSghKbsnlxNDGb" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dorfocordeiro/dorfocordeiro/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dorfocordeiro/dorfocordeiro/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dorfocordeiro/dorfocordeiro/output/pacman-contribution-graph.svg">
+</picture>
+
+###
